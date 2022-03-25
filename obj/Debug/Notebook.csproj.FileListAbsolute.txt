@@ -1,0 +1,7 @@
+C:\Users\user\Education\RaidBosses\Notebook\bin\Debug\Notebook.exe.config
+C:\Users\user\Education\RaidBosses\Notebook\bin\Debug\Notebook.exe
+C:\Users\user\Education\RaidBosses\Notebook\bin\Debug\Notebook.pdb
+C:\Users\user\Education\RaidBosses\Notebook\obj\Debug\Notebook.csproj.AssemblyReference.cache
+C:\Users\user\Education\RaidBosses\Notebook\obj\Debug\Notebook.csproj.CoreCompileInputs.cache
+C:\Users\user\Education\RaidBosses\Notebook\obj\Debug\Notebook.exe
+C:\Users\user\Education\RaidBosses\Notebook\obj\Debug\Notebook.pdb
